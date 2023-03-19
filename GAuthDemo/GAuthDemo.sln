@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAuthDemo", "GAuthDemo.csproj", "{84FB063C-9FE2-425F-9039-6B82A2C9CC33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84FB063C-9FE2-425F-9039-6B82A2C9CC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FB063C-9FE2-425F-9039-6B82A2C9CC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FB063C-9FE2-425F-9039-6B82A2C9CC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FB063C-9FE2-425F-9039-6B82A2C9CC33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32A68285-A573-44FE-A4B5-7D63503CE9AB}
+	EndGlobalSection
+EndGlobal
