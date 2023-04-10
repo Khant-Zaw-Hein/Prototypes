@@ -1,0 +1,15 @@
+D:\Github\Prototypes\EncryptionDemo\EncryptionDemo\bin\Debug\net7.0\EncryptionDemo.exe
+D:\Github\Prototypes\EncryptionDemo\EncryptionDemo\bin\Debug\net7.0\EncryptionDemo.deps.json
+D:\Github\Prototypes\EncryptionDemo\EncryptionDemo\bin\Debug\net7.0\EncryptionDemo.runtimeconfig.json
+D:\Github\Prototypes\EncryptionDemo\EncryptionDemo\bin\Debug\net7.0\EncryptionDemo.dll
+D:\Github\Prototypes\EncryptionDemo\EncryptionDemo\bin\Debug\net7.0\EncryptionDemo.pdb
+D:\Github\Prototypes\EncryptionDemo\EncryptionDemo\obj\Debug\net7.0\EncryptionDemo.csproj.AssemblyReference.cache
+D:\Github\Prototypes\EncryptionDemo\EncryptionDemo\obj\Debug\net7.0\EncryptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Prototypes\EncryptionDemo\EncryptionDemo\obj\Debug\net7.0\EncryptionDemo.AssemblyInfoInputs.cache
+D:\Github\Prototypes\EncryptionDemo\EncryptionDemo\obj\Debug\net7.0\EncryptionDemo.AssemblyInfo.cs
+D:\Github\Prototypes\EncryptionDemo\EncryptionDemo\obj\Debug\net7.0\EncryptionDemo.csproj.CoreCompileInputs.cache
+D:\Github\Prototypes\EncryptionDemo\EncryptionDemo\obj\Debug\net7.0\EncryptionDemo.dll
+D:\Github\Prototypes\EncryptionDemo\EncryptionDemo\obj\Debug\net7.0\refint\EncryptionDemo.dll
+D:\Github\Prototypes\EncryptionDemo\EncryptionDemo\obj\Debug\net7.0\EncryptionDemo.pdb
+D:\Github\Prototypes\EncryptionDemo\EncryptionDemo\obj\Debug\net7.0\EncryptionDemo.genruntimeconfig.cache
+D:\Github\Prototypes\EncryptionDemo\EncryptionDemo\obj\Debug\net7.0\ref\EncryptionDemo.dll

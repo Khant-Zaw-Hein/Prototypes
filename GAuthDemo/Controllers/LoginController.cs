@@ -30,6 +30,7 @@ namespace GAuthDemo.Controllers
             var googleUser = JsonConvert.DeserializeObject<GoogleProfile>(userProfile);
 
             return RedirectToAction("Index", "Home");
+            //return View();
         }
     }
 }
